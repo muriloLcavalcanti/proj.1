@@ -1,0 +1,34 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+* {
+  background-color: rgb(213, 225, 239);
+}
+
+div.container {
+  width: 100%;
+  background-color: #ffffff;
+  width: 20%;
+  padding: 15px;
+  border-radius: 15px;
+  margin: 0px;
+}
+
+div.container p {
+  background-color: #ffffff;
+  text-align: center;
+}
+
+div img {
+  display: flex;
+  justify-content: center;
+  width: 85%;
+  border-radius: 15px;
+  margin: 0 auto;
+}
