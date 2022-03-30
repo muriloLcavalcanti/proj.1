@@ -1,5 +1,9 @@
 O propósito deste projeto é para desafiar (desenferrujar) minhas habilidades em CSS e treinar o versionamento pelo prompt.
 
+missão secundária: decidi adicionar um botão de alternancia (feito em css puro). Este botão muda
+o backgroud da tela igual um interruptor.
+Agora vou treinar ainda mais o **CSS puro** e também um pouquinho de JavaScript.
+
 
 sites usados para me auxiliar:
 
